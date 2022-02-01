@@ -1,0 +1,7 @@
+module:game
+lab.game
+lab.game.controller
+lab.game.model
+lab.game.model.piece
+lab.game.test
+lab.game.util
